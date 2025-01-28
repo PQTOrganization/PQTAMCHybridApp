@@ -1,0 +1,14 @@
+html,
+body {
+  margin: 0;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-image: url("./asset/app_background.png");
+  background-position: center;
+  background-size: cover;
+}

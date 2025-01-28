@@ -1,0 +1,249 @@
+[
+  {
+    "id": 0,
+    "order": "A",
+    "heading": "Age (In Yrs.)",
+    "displayOrder": 1,
+    "options": [
+      {
+        "id": 1,
+        "option": "Below 40",
+        "score": 6
+      },
+      {
+        "id": 2,
+        "option": "41-50",
+        "score": 3
+      },
+      {
+        "id": 3,
+        "option": "51-60",
+        "score": 1
+      },
+      {
+        "id": 4,
+        "option": "Above 60",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "order": "B",
+    "heading": "Marital Status",
+    "displayOrder": 2,
+    "options": [
+      {
+        "id": 1,
+        "option": "Single",
+        "score": 6
+      },
+      {
+        "id": 2,
+        "option": "Married",
+        "score": 2
+      },
+      {
+        "id": 3,
+        "option": "Divorced/widow",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "order": "C",
+    "heading": "Number of Dependents",
+    "displayOrder": 3,
+    "options": [
+      {
+        "id": 1,
+        "option": "Zero",
+        "score": 6
+      },
+      {
+        "id": 2,
+        "option": "Below four",
+        "score": 3
+      },
+      {
+        "id": 3,
+        "option": "Four to seven",
+        "score": 1
+      },
+      {
+        "id": 4,
+        "option": "Above seven",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "order": "D",
+    "heading": "Occupation",
+    "displayOrder": 4,
+    "options": [
+      {
+        "id": 1,
+        "option": "Retired/Unemployed",
+        "score": 0
+      },
+      {
+        "id": 2,
+        "option": "Housewife/Student",
+        "score": 1
+      },
+      {
+        "id": 3,
+        "option": "Salaried",
+        "score": 3
+      },
+      {
+        "id": 4,
+        "option": "Self Employed/Business",
+        "score": 6
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "order": "E",
+    "heading": "Your Risk Appetite",
+    "displayOrder": 6,
+    "options": [
+      {
+        "id": 1,
+        "option": "Very high",
+        "score": 12
+      },
+      {
+        "id": 2,
+        "option": "High",
+        "score": 10
+      },
+      {
+        "id": 3,
+        "option": "Moderate",
+        "score": 6
+      },
+      {
+        "id": 4,
+        "option": "Low",
+        "score": 4
+      },
+      {
+        "id": 5,
+        "option": "Very Low",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "order": "F",
+    "heading": "Your Investment Objective",
+    "displayOrder": 7,
+    "options": [
+      {
+        "id": 1,
+        "option": "Capital preservation",
+        "score": 4
+      },
+      {
+        "id": 2,
+        "option": "Capital preservation & income",
+        "score": 8
+      },
+      {
+        "id": 3,
+        "option": "Income and long-term growth",
+        "score": 12
+      },
+      {
+        "id": 4,
+        "option": "Capital growth",
+        "score": 14
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "order": "G",
+    "heading": "Your Investment Horizon",
+    "displayOrder": 8,
+    "options": [
+      {
+        "id": 1,
+        "option": "Short term (Less than 1 year)",
+        "score": 4
+      },
+      {
+        "id": 2,
+        "option": "Medium term (1 to 5 years)",
+        "score": 6
+      },
+      {
+        "id": 3,
+        "option": "Medium to long term (5 to 10 years)",
+        "score": 10
+      },
+      {
+        "id": 4,
+        "option": "Long term (More than 10 years)",
+        "score": 12
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "order": "H",
+    "heading": "Your current level of investment knowledge",
+    "displayOrder": 9,
+    "options": [
+      {
+        "id": 1,
+        "option": "Little or no knowledge",
+        "score": 0
+      },
+      {
+        "id": 2,
+        "option": "Some knowledge",
+        "score": 2
+      },
+      {
+        "id": 3,
+        "option": "Both knowledgeable & experienced in investing",
+        "score": 4
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "order": "I",
+    "heading": "Your current financial position: in a year or so? How sure do you feel your finances will be?",
+    "displayOrder": 10,
+    "options": [
+      {
+        "id": 1,
+        "option": "Very secure",
+        "score": 0
+      },
+      {
+        "id": 2,
+        "option": "Somewhat secure",
+        "score": -2
+      },
+      {
+        "id": 3,
+        "option": "Not sure",
+        "score": -4
+      },
+      {
+        "id": 4,
+        "option": "Likely worse",
+        "score": -8
+      }
+    ]
+  }
+]

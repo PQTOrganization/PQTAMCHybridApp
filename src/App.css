@@ -1,0 +1,47 @@
+#content {
+  margin-top: 0px;
+  overflow: scroll;
+  height: 80vh;
+}
+
+.videoFlipStyle {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+.zoomButton {
+  height: 50px;
+  width: 50px;
+  border-radius: 50% !important;
+  border-color: white !important;
+  border-width: 2 !important;
+  color: white !important;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+.MuiStepLabel-label {
+  text-align: left;
+}
+
+.MuiDialogContentText-root {
+  text-align: justify;
+  white-space: pre-wrap;
+}
+
+.MuiStepContent-root {
+  margin-top: 16px !important;
+  margin-left: 0px !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  border: 0px !important;
+}
+
+.skeleton-container {
+  flex: 1;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

@@ -1,0 +1,14 @@
+{
+  "RESEND_TIMER": 120,
+  "IDLE_TIMEOUT": 300000,
+  "SELFIE": "01",
+  "CNIC_FRONT": "02",
+  "CNIC_BACK": "03",
+  "MUSLIM_ZAKAT": "04",
+  "ADDRESS_PROOF": "05",
+  "DOC_SIZE": 1,
+  "IMAGE_SIZE": 2.75,
+  "API_URL": "https://localhost:7015/api/",
+  "DATE_FORMAT": "DD-MMM-yyyy",
+  "BLINQ_URL": "https://staging-ipg.blinq.pk/Home/PayInvoice"
+}
